@@ -1,0 +1,19 @@
+/*
+* install.txt, 2008/03/04 19:38:05 
+* Module: altermod v0.3 RC
+* Author: The altermod (www.risorseweb.netsons.org)
+* Licence: GNU
+*/
+
+Cos'è altermod ?
+======================
+
+altermod è un modulo che serve esclusivamente a sostituire per un periodo breve, uno dei moduli che presenta dei problemi e,
+per non dover chiudere l'intero sito, oppure nascondere agli utenti senza nessun avviso il modulo stesso.
+
+Come si installa altermod ?
+===========================
+
+Altermod viene installato come un normale modulo XOOPS, il che significa che si dovrebbe copiare / altermod nella cartella / modules del tuo sito web. Quindi, accedi al tuo sito come amministratore, vai nel pannello System > Admin > Moduli, cerca l'icona altermod nella lista dei moduli disinstallati e per l'installazione fare clic sulla sua icona. Seguire le istruzioni sullo schermo per proseguire avanti. Appena il modulo è installato, sostituisci il nome dell'etichetta altermod che si trova sotto l'icona, con quella del modulo da mettere offline. Togli i permessi del modulo in manutenzione agli altri utenti, per far in modo che solo il webmaster possa vederlo. Se vuoi clonare questo modulo, ti basterà fare una copia, rinominarlo e poi rinominare i nomi di tutti i file che hanno lo stesso nome della cartella, in questo modo non causa nessun conflitto con altri moduli dello stesso tipo.
+
+Per qualunque problema scrivimi su: http://risorseweb.netsons.org  

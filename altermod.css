@@ -1,0 +1,52 @@
+/*------------------------------------------------
+---- Copy this code id in your style.css ----
+------------------------------------------------*/
+
+#mod-logo{
+	padding-top:        1%; 
+	padding-left:        37%; 
+	width:            120px;
+	vertical-align: middle;
+	height:           100px;
+	text-align:     center;
+}
+
+#mod-title{
+	color: #238524;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: center;
+	height: 50px;
+}
+
+#mod-desc{
+   color: Blue;
+   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+   font-size: 14px;
+   text-align: center;	
+	height: 50px; 
+}
+
+#mod-slogan{
+	color: #FF4500;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	height: 50px;
+}
+
+#mod-sorry{
+	color: #FF8C00;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: center;
+	height: 50px;
+}
+
+#mod-return{
+	color: #00ACE1;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: center;
+	height: 50px;
+}

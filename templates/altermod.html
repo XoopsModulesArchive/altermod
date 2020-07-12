@@ -1,0 +1,18 @@
+<div id="mod-logo"><a href="<{$mod_url}>"><img src="<{$mod_img}>" alt="Logo Altermod" /></a></div>
+<br /><br />
+<div id="mod-title"><{$lang_title}></div>
+<div id="mod-desc"><{$lang_description}></div>
+<div id="mod-slogan"><{$lang_slogan}></div>
+<div id="mod-sorry"><{$lang_sorry}></div>
+<div id="mod-return"><{$lang_return}></div>
+<div style="margin: 3px; padding: 3px;">
+<!-- start comments loop -->
+<{if $comment_mode == "flat"}>
+  <{include file="db:system_comments_flat.html"}>
+<{elseif $comment_mode == "thread"}>
+  <{include file="db:system_comments_thread.html"}>
+<{elseif $comment_mode == "nest"}>
+  <{include file="db:system_comments_nest.html"}>
+<{/if}>
+<!-- end comments loop -->
+</div>

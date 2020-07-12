@@ -1,0 +1,23 @@
+/*
+* install.txt, 2008/03/04 19:38:05 
+* Module: altermod v0.3 RC
+* Author: The altermod (www.risorseweb.netsons.org)
+* Licence: GNU
+*/
+
+
+Supported XOOPS Version
+=======================
+
+altermod 0.3 it has to be installed on XOOPS 2.0.x series and XOOPS 2.2.x series.
+
+
+How to install altermod
+===========================
+
+altermod is installed as a regular XOOPS module, which means you should copy the complete 
+/altermod folder into the /modules directory of your website. 
+Then, log in to your site as administrator, go to System Admin > Modules, 
+look for the altermod icon in the list of uninstalled modules and click in the install icon. 
+Follow the directions in the screen and you'll be ready to go.
+
